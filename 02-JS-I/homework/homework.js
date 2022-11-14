@@ -36,15 +36,15 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-     var suma = x + y;
-    return suma;
+     var operacion = x + y;
+    return operacion;
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-    var resta = x - y;
-   return resta;
+    var res = x - y;
+   return res;
 }
 
 function multiplica(x, y) {
